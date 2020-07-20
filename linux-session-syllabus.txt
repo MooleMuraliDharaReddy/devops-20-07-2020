@@ -1,0 +1,56 @@
+What is Linux?
+Types of Linux Distributions?
+Basic commands
+pwd
+cd
+cal
+date
+history
+clear
+How to check the cpu information in Linux
+How to check the memory information in Linux?
+man
+ping
+curl
+
+How to create the files in linux?
+touch
+cat
+vi/vim
+
+How to create directories in linux?
+What is Softlink and Hardlink in linux
+What is inode number?
+How to remove files and directories?
+What is head and tail command in linux?
+
+
+How to create and delete the users and groups in linux?
+What is top command in linux?
+What is free command in linux?
+
+File permission and ownership in Linux?
+
+
+What is YUM command in Linux?
+YUM command with examples in Linux?
+
+What is RPM command in Linux?
+RPM command with examples in Linux?
+
+What is the use of wget command in Linux?
+What is tar command in Linux?
+tar  commands with examples in Linux?
+
+What is zip command in Linux?
+Zip command with examples in Linux?
+
+What is find command in Linux?
+find command with examples in Linux?
+
+What is grep command in Linux?
+grep command with examples in linux?
+What is ps command in Linux?
+ps command with examples in Linux?
+What is kill command in Linux?
+kill command with examples in Linux?
